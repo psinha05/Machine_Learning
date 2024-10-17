@@ -41,7 +41,8 @@ iii). Image and speech recognition
 
 
 
-2. Unsupervised Learning
+Unsupervised Learning
+
 Overview: In unsupervised learning, the algorithm is trained on data without labeled outputs. The objective is to uncover hidden patterns or groupings within the data.
 
 Common Algorithms:
@@ -67,9 +68,10 @@ iii). Market basket analysis
 
 
 
-3. Reinforcement Learning
+Reinforcement Learning
  
 Overview: Reinforcement learning (RL) involves training algorithms to make a sequence of decisions by interacting with an environment. The agent learns to achieve a goal by receiving feedback in the form of rewards or penalties based on its actions.
+
 
 Common Algorithms:
 
@@ -82,6 +84,7 @@ c). Policy Gradient Methods: Directly optimize the policy (the agent's strategy)
 d). Actor-Critic Methods: Combines both value-based and policy-based approaches by using two separate structures: an actor (which proposes actions) and a critic (which evaluates them).
 
 
+
 Use Cases:
 
 i). Game playing (e.g., AlphaGo)
@@ -89,6 +92,7 @@ i). Game playing (e.g., AlphaGo)
 ii). Robotics
 
 iii). Autonomous driving
+
 
 
 Machine learning is a powerful approach to solving complex problems by learning from data. Understanding its types—supervised, unsupervised, and reinforcement learning—along with their respective algorithms is crucial for applying ML effectively in various domains. Each type has its unique applications, strengths, and methodologies, making ML a versatile tool for data-driven decision-making.
