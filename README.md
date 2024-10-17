@@ -33,8 +33,11 @@ f). Neural Networks: Composed of interconnected nodes (neurons) that process inp
 Use Cases:
 
 Spam detection
+
 Fraud detection
+
 Image and speech recognition
+
 
 
 
@@ -54,15 +57,18 @@ d). Autoencoders: Neural networks used for unsupervised learning that learn to c
 
 Use Cases:
 
+
 Customer segmentation
+
 Anomaly detection
+
 Market basket analysis
 
 
 
 
 3. Reinforcement Learning
-4. 
+ 
 Overview: Reinforcement learning (RL) involves training algorithms to make a sequence of decisions by interacting with an environment. The agent learns to achieve a goal by receiving feedback in the form of rewards or penalties based on its actions.
 
 Common Algorithms:
@@ -79,7 +85,9 @@ d). Actor-Critic Methods: Combines both value-based and policy-based approaches 
 Use Cases:
 
 Game playing (e.g., AlphaGo)
+
 Robotics
+
 Autonomous driving
 
 
