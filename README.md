@@ -32,11 +32,11 @@ f). Neural Networks: Composed of interconnected nodes (neurons) that process inp
 
 Use Cases:
 
-Spam detection
+i). Spam detection
 
-Fraud detection
+ii). Fraud detection
 
-Image and speech recognition
+iii). Image and speech recognition
 
 
 
@@ -58,11 +58,11 @@ d). Autoencoders: Neural networks used for unsupervised learning that learn to c
 Use Cases:
 
 
-Customer segmentation
+i). Customer segmentation
 
-Anomaly detection
+ii). Anomaly detection
 
-Market basket analysis
+iii). Market basket analysis
 
 
 
@@ -84,11 +84,11 @@ d). Actor-Critic Methods: Combines both value-based and policy-based approaches 
 
 Use Cases:
 
-Game playing (e.g., AlphaGo)
+i). Game playing (e.g., AlphaGo)
 
-Robotics
+ii). Robotics
 
-Autonomous driving
+iii). Autonomous driving
 
 
 Machine learning is a powerful approach to solving complex problems by learning from data. Understanding its types—supervised, unsupervised, and reinforcement learning—along with their respective algorithms is crucial for applying ML effectively in various domains. Each type has its unique applications, strengths, and methodologies, making ML a versatile tool for data-driven decision-making.
